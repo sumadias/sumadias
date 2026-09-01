@@ -32,8 +32,7 @@ mesma linguagem — sem perder o fio entre a dor do usuário e a linha de códig
 | Projeto | O que é | Stack | Status |
 | --- | --- | --- | --- |
 | **[Rede Escuta Segura](https://github.com/sumadias/redeescutasegura)** | Plataforma de acolhimento e encaminhamento para mulheres em situação de violência na Paraíba, com mapa da rede de proteção baseado em dados do CNES | React · Vite · Node | 🟢 No ar em [redeescutasegura.com.br](https://redeescutasegura.com.br) |
-| **[IA Cultural Simplificada](https://github.com/sumadias/ia-cultural-simplificada)** | Assistente para agentes culturais (editais, projetos, acervo) que só responde com fonte, vigência e confiança — e se abstém quando não tem base | Node.js puro · zero dependências · 13 testes | 🧪 MVP funcional |
-| **[NOUS Tecnologia](https://github.com/sumadias/inovanouscom)** | Site institucional da consultoria, com pipeline de publicação contínua e demo navegável Arandu 2.0 (Consulta Pública SECTI-GO 001/2026) | React · Vite · Tailwind · GitHub Actions | 🟢 No ar em [inovanous.com](https://inovanous.com) |
+| **[NOUS Tecnologia](https://github.com/sumadias/inovanouscom)** | Site institucional da consultoria, com publicação contínua: cada push na main constrói e republica o site sozinho | React · Vite · Tailwind · GitHub Actions | 🟢 No ar em [inovanous.com](https://inovanous.com) |
 
 ---
 
