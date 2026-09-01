@@ -60,9 +60,10 @@ mesma linguagem — sem perder o fio entre a dor do usuário e a linha de códig
 
 **Certificações:** Scrum Fundamentals Certified (SCRUMstudy) · OKR Fundamentals Certified
 
+
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumadias&show_icons=true&hide_border=true&theme=default&hide=issues" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumadias&layout=compact&hide_border=true&theme=default" height="150">
+  <i>Aberta a conversas sobre produtos de tecnologia com impacto público.</i><br>
+  <a href="https://www.linkedin.com/in/suzana-dias-731a3667">LinkedIn</a> · <a href="mailto:suzanacgpb@gmail.com">e-mail</a> · <a href="https://inovanous.com">inovanous.com</a>
 </p>
